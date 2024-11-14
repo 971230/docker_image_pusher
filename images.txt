@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 redis
 zookeeper
-zookeeper:3.9.2
+apache/kafka:3.9.0
